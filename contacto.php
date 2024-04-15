@@ -20,7 +20,7 @@
     </div>
     <nav class="d-flex w-100 justify-content-evenly align-items-center my-4 fs-3">
         <img src="https://www.unison.mx/wp-content/uploads/2018/08/escudo-med-lema.gif" alt="logo unison pequeño" id="logo-unison-small"/>
-        <a href="bienvenida.php">Bienvenida</a>
+        <a href="index.php">Bienvenida</a>
         <a href="contacto.php">Contacto</a>
     </nav>
 </header>
